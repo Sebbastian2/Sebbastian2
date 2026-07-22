@@ -1,7 +1,7 @@
 <h1 align="center">Sebastian Qureshi</h1>
 
 <p align="center">
-  <em>Software Engineer II · Integration APIs · Scottsdale, AZ</em>
+  <em>Software Engineer II · Integration APIs · Tempe, AZ</em>
 </p>
 
 <p align="center">
